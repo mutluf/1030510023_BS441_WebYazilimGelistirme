@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Denemeyeni
+          Denemeyeninn
         </a>
       </header>
     </div>
